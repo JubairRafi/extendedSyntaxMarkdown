@@ -1,11 +1,11 @@
-##Table      
+## Table      
 |syntax|description|
 |------|-----------|
 |header|  title    |
 | para |   text	   |
 
 ---
-##Fenced Code block   
+## Fenced Code block   
 			  ```
 				{
 				  "firstName":"Jubair",
@@ -14,7 +14,7 @@
 				}
 			  ```
 ---
-##Footnote  
+## Footnote  
 		       Here's a sentence with a footnote. [^1]
 
 	        	[^1]: This is the footnote.
@@ -22,7 +22,7 @@
 ## heading Id  		
 ### My Great Heading {#custom-id}
 ---
-##Definition List 	
+## Definition List 	
      term
       : definition
 ---
@@ -30,7 +30,7 @@
 ## stikethrough 	
 ~~the world is flat.~~
 ---
-##Task List 		
+## Task List 		
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
