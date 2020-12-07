@@ -1,2 +1,7 @@
 extended syntax for markdown
+1. Table  ->  |syntax|description|
+	      |------|-----------|
+	      |header|  title    |
+	      | para |   text	 |
+
 
