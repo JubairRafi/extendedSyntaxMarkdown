@@ -1,5 +1,10 @@
-extenden syntax (4-5)
+extenden syntax (4-7)
 
 4. heading Id  		-> ### My Great Heading {#custom-id}
 5. Definition List 	->       term
 				: definition
+
+6. stikethrough 	->  ~~the world is flat.~~
+7.Task List 		->  - [x] Write the press release
+			    - [ ] Update the website
+		            - [ ] Contact the media
